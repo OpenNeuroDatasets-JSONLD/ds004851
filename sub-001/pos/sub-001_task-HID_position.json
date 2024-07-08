@@ -1,7 +1,7 @@
 {
   "SamplingFrequency": 120,
-  "StartTime": 169351.57217737328,
-  "StartTimeUTC": "11/27/2019 7:09:24 PM",
+  "StartTime": 3977.5503017174719,
+  "StartTimeUTC": "1/21/2021 3:44:10 PM",
   "Columns": [
     "position_x",
     "position_y",
@@ -25,19 +25,19 @@
     "Units": "Unreal Units"
   },
   "roation_x": {
-    "Description": "Y position",
+    "Description": "X rotation",
     "Units": "degrees"
   },
   "rotation_y": {
-    "Description": "Size of eye 1",
+    "Description": "Y rotation",
     "Units": "degrees"
   },
   "rotation_z": {
-    "Description": "Size of eye 2",
+    "Description": "Z rotation",
     "Units": "degrees"
   },
   "Count": {
-    "Description": "X position of eye 1",
+    "Description": "sample count",
     "Units": "integer"
   }
 }
